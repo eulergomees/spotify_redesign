@@ -1,1 +1,3 @@
-# spotify_redesign
+# Spotify redesign
+
+A Spotify redesign using Flutter.
